@@ -1,0 +1,9 @@
+{
+  "name": "VoxelCraft Web",
+  "short_name": "VoxelCraft",
+  "start_url": "./index.html",
+  "display": "fullscreen",
+  "background_color": "#78b6df",
+  "theme_color": "#78b6df",
+  "orientation": "landscape"
+}
