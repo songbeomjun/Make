@@ -1,0 +1,9 @@
+{
+  "name": "VoxelCraft Standalone v3",
+  "short_name": "VoxelCraft",
+  "start_url": "./index.html?v=3.0",
+  "display": "fullscreen",
+  "background_color": "#75b5df",
+  "theme_color": "#75b5df",
+  "orientation": "landscape"
+}
